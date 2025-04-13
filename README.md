@@ -20,6 +20,8 @@ Each problem folder contains:
 Here are some key problems covered in this repository:
 
 - Find maximum product subarray
+- Second largest
+- Rotate and array
 - Kadane’s Algorithm (Maximum Sum Subarray)
 - Move all zeros to end
 - Two Sum / Pair with a given sum
